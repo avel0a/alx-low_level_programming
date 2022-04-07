@@ -1,4 +1,2 @@
-#include <stdio.h>
-#include <unistd.h>
 #!/bin/bash
 gcc -E $CFILE>c
